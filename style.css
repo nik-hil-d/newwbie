@@ -35,8 +35,13 @@ body{
 
 
 }
-.box p{
+.box p1{
+    font-size: 20px;
     text-align: justify;
+
+}
+.box p{
+  text-align: justify;
 
 }
 .fa {
